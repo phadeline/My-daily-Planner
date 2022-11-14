@@ -1,23 +1,26 @@
 # My Daily Planner
 
 ## Description
+
 My daily Planner allows users to write and save what the plan to do everyday from 9am to 5pm. Users can save what they write into Local Storage so that even when they refresh the page, what was written will still be there. Each block of time is color coordinated:
 when a specific hour is in the past, the color turn gray. The color red is for the current hour while the green color means the future.
 
 ## Installation
+
 N/A
 
 ## Usage
-Users can plan out their daily routine during work hours (9am-5pm). They can save their plans using a save button that stores thee information in local storage. Time slots that are in the past are labelled gray while the current time is red and future time blocks are red, 
+
+Users can plan out their daily routine during work hours (9am-5pm). They can save their plans using a save button that stores thee information in local storage. Time slots that are in the past are labelled gray while the current time is red and future time blocks are red,
 
 ## Credits
+
 N/A
 
 ## License
+
 Please refer to the LICENSE in the repo.
 
-## Link to Application: https://phadeline.github.io/Intro-To-Coding-Quiz/
+## Link to Application: https://phadeline.github.io/My-daily-Planner/
 
-![My Image](./develop/images/Screen%20Shot%202022-11-10%20at%2010.35.55%20AM.png)
-
-
+![My Image](./Assets/daily%20planner.png)
