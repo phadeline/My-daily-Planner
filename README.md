@@ -15,7 +15,7 @@ Users can plan out their daily routine during work hours (9am-5pm). They can sav
 
 ## Credits
 
-N/A
+The original code was provided by Kevin Ferguson, refer to Github profile https://github.com/kfergrocks.
 
 ## License
 
